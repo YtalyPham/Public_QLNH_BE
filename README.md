@@ -12,7 +12,12 @@
 <h3>Ngôn ngữ: Java(Spring Boot)</h3>
 <h3>Cơ sở dữ liệu: MySQL (liên kết với CSDL cloud RDS)</h3>
 <h3>Deploy Server: Elastic Beantalk</h3>
+<h3>Link Demo: https://youtu.be/peu56EkiuKA</h3>
+<h3>Link Product: http://qlnhfe.s3-website-ap-southeast-1.amazonaws.com/</h3>
 <h2>III.Sơ đồ</h2>
-<h3>1.Sơ đồ lớp</h3>
-<h3>2.Sơ đồ CSDL</h3>
 <h3>1.Sơ đồ Usecase</h3>
+<p align="center"><img src="images/usecase.jpg"/></p>
+<h3>2.Sơ đồ lớp</h3>
+<p align="center"><img src="images/classdiagram.png"/></p>
+<h3>3.Sơ đồ CSDL</h3>
+<p align="center"><img src="images/eerdiagram.png"/></p>
